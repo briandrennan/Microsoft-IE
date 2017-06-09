@@ -1,0 +1,21 @@
+ul.nav {
+    margin: 1em 0;
+}
+
+ul.nav > li {
+    display: inline-block;
+    margin: 1em;
+    padding: .5em;
+    background-color: #CECECE;
+    border: 1px solid darkblue;
+    border-radius: 4px;
+}
+
+#add-ua-here {
+    margin-top: 2em;
+    font-weight: bold
+}
+
+div#add-ua-here {
+    color: darkred;
+}
